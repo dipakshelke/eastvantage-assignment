@@ -68,6 +68,7 @@ const App = () => {
       const { data: { results } } = await axios.get('https://randomuser.me/api');
       const { email, name: { title, first, last } } = results[0];
       setUser({ email, title, first, last });
+      localStorage.setItem('user', JSON.stringify({ email, title, first, last }));
     } catch (err) {
       console.error(err);
     }
