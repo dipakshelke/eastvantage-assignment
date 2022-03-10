@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eastvantage-assignment/static/css/main.e6c13ad2.css",
-    "main.js": "/eastvantage-assignment/static/js/main.0cc32125.js",
-    "static/js/787.f728b028.chunk.js": "/eastvantage-assignment/static/js/787.f728b028.chunk.js",
-    "index.html": "/eastvantage-assignment/index.html",
-    "main.e6c13ad2.css.map": "/eastvantage-assignment/static/css/main.e6c13ad2.css.map",
-    "main.0cc32125.js.map": "/eastvantage-assignment/static/js/main.0cc32125.js.map",
-    "787.f728b028.chunk.js.map": "/eastvantage-assignment/static/js/787.f728b028.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.0d64effb.js",
+    "static/js/787.f728b028.chunk.js": "/static/js/787.f728b028.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.0d64effb.js.map": "/static/js/main.0d64effb.js.map",
+    "787.f728b028.chunk.js.map": "/static/js/787.f728b028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0cc32125.js"
+    "static/js/main.0d64effb.js"
   ]
 }
