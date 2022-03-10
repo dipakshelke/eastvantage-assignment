@@ -1,7 +1,11 @@
 
+## Verification
+
 The assignment is deployed on github pages. Please check https://dipakshelke.github.io/eastvantage-assignment/
 
-## For Local Verification:
+
+
+## Local Verification
 
 ### Prerequisite
 
