@@ -1,7 +1,6 @@
 import React, { useCallback, useEffect, useState } from 'react';
 import styled from 'styled-components';
 import axios from 'axios';
-import { css } from '@emotion/react';
 import PulseLoader from 'react-spinners/PulseLoader'
 
 const Container = styled.div`
